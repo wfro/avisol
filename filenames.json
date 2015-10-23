@@ -1,0 +1,11 @@
+{
+  "filenames": [
+    "app/assets/javascripts/",
+    "app/controllers/",
+    "config/db/",
+    "config/environments/",
+    "config/",
+    "app/models/",
+    "spec/controllers/"
+  ]
+}
